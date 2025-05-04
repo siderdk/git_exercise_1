@@ -1,3 +1,5 @@
 Ananas
-Apples
+grapes
 Peaches
+Strawberries
+Pears
